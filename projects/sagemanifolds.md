@@ -23,6 +23,7 @@ The primary goal of my master's thesis was to implement *characteristic classes*
 * Remove code redundancies caused by the new implementation of sections on vector bundles
 * Add new vector bundle features such as vector-valued forms, bundle automorphisms, bundle metrics
 * Transgression forms of characteristic classes
+* Alternative algorithm for characteristic forms involving multiplicative/additive sequences (possible speed-up)
 
 ## Interested?
 
