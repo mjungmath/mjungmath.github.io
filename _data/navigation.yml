@@ -1,0 +1,28 @@
+main:
+  - title: "About Me"
+    url: /aboutme/
+  - title: "Blog"
+    url: /blog/
+  - title: "Projects"
+    url: /projects/
+  - title: "Curriculum Vitae"
+    url: /cv/
+
+blog:
+  - title: "Blog"
+    children:
+      - title: "Latest Posts"
+        url: /blog/
+      - title: "Posts by Year"
+        url: /blog/posts/
+      - title: "Categories"
+        url: /blog/categories/
+      - title: "Tags"
+        url: /blog/tags/
+
+projects:
+  - title: "Current Projects"
+    children:
+    - title: "SageManifolds"
+      url: /projects/sagemanifolds/
+  - title: "Archive"
