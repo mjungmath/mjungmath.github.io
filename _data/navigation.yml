@@ -1,12 +1,12 @@
 main:
+  - title: "Curriculum Vitae"
+    url: /cv/
   - title: "About Me"
     url: /aboutme/
   - title: "Blog"
     url: /blog/
   - title: "Projects"
     url: /projects/
-  - title: "Curriculum Vitae"
-    url: /cv/
 
 blog:
   - title: "Blog"
