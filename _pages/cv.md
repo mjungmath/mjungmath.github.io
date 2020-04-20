@@ -10,4 +10,4 @@ title: "Curriculum Vitae"
 
 ### Download
 
-[<i class='fas fa-file-pdf'></i> Resume]({% link /assets/files/resume.pdf %}){: .btn .btn--primary }
+[<i class='fas fa-file-pdf'></i> Short CV]({% link /assets/files/short_cv.pdf %}){: .btn .btn--primary }
