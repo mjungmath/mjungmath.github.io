@@ -18,12 +18,13 @@ In 2019/2020, I contributed *vector bundles* to the SageManifolds project by gen
 ## Characteristic Classes
 
 The primary goal of my master's thesis was to implement *characteristic classes* on arbitrary vector bundles. This has been achieved in early 2020. Since version 9.0 of SageMath, it is possible to compute the characteristic form of a given characteristic class and a bundle connection. The implementation bases on the Chern&ndash;Weil homomorphism and includes the computation of multiplicative as well as additive characteristic classes and the Euler class. An introductory post on this topic is coming soon.
+
 ## Currently Working on
 
 * Remove code redundancies caused by the new implementation of sections on vector bundles
 * Add new vector bundle features such as vector-valued forms, bundle automorphisms, bundle metrics
 * Transgression forms of characteristic classes
-* Alternative algorithm for characteristic forms involving multiplicative/additive sequences (possible speed-up)
+* [Alternative algorithm for characteristic forms]({% post_url 2020-04-20-char-class-alternative %}) involving multiplicative/additive sequences (possible speed-up)
 
 ## Interested?
 
