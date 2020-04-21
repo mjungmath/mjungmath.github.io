@@ -61,7 +61,7 @@ Notice that the $$i$$-th homogeneous component of the Chern/Pontryagin class rep
 
 $$\det(1+t X) = \sum^n_{i=0} t^i\,e_i(X).$$
 
-Thus, when we insert the homogeneous components of the Chern/Pontryagin class into the polynomial $$Q$$, then we obtain the characteristic class corresponding to $$P$$.
+Thus, when we insert the homogeneous components of the Chern/Pontryagin class into the polynomial $$Q$$, then we obtain the characteristic class corresponding to $$P\left(\frac{X}{2 \pi \mathrm{i}}\right)$$.
 
 Of course, we can proceed similarly for additive sequences: we simply replace the determinant by the trace and the product by a sum.
 
