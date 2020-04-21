@@ -62,7 +62,6 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-last-modified-at
   - jekyll-include-cache
 
 author:
