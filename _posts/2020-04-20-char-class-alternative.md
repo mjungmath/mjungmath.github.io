@@ -6,16 +6,16 @@ tags:
   - characteristic classes
   - sagemanifolds
   - mathematics
-last_modified_at: 2020-04-21 21:14:00 +2
+last_modified_at: 2020-04-22
 ---
 
-**Note:** If you are not familiar with my previous work, take a peek at my [master's thesis]({% link assets/files/masters_thesis.pdf %}). A *very* short review is coming soon.
-{: .notice--warning}
-
-Today, I want to introduce a slightly different algorithm, that I currently working on, to implement the computation of characteristic forms. This new approach aims for two purposes:
+Today, I want to introduce a slightly different algorithm, that I currently working on, to implement the computation of characteristic forms in Sage. This new approach aims for two purposes:
 
 1. I anticipate to gain a speed-up especially in high dimensions.
 2. I want to understand transgression forms even better and hope to lay foundations for them.
+
+**Note:** If you are not familiar with my previous work, take a peek at my [master's thesis]({% link assets/files/masters_thesis.pdf %}). A *very* short review is coming soon.
+{: .notice--warning}
 
 ## Review and Outline
 
@@ -61,9 +61,9 @@ Notice that the $$i$$-th homogeneous component of the Chern/Pontryagin class rep
 
 $$\det(1+t X) = \sum^n_{i=0} t^i\,e_i(X).$$
 
-Thus, when we insert the homogeneous components of the Chern/Pontryagin class into the polynomial $$Q$$, then we obtain the characteristic class corresponding to $$P\left(\frac{X}{2 \pi \mathrm{i}}\right)$$.
+Thus, when we insert the homogeneous components of the Chern/Pontryagin class into the polynomial $$Q$$, then we obtain the multiplicative characteristic class associated to $$f(x)$$.
 
-Of course, we can proceed similarly for additive sequences: we simply replace the determinant by the trace and the product by a sum.
+Of course, we can proceed similarly for additive classes: we simply replace the determinant by the trace and the product by a sum.
 
 ## Summary
 
