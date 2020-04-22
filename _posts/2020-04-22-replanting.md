@@ -13,7 +13,7 @@ Today, I replanted two trees into proper bonsai pots. On the one hand, I replant
 
 ![pomegranate](/assets/images/bonsai/2020-04/punica_inside.jpg)
 
-The trunk of my *ficus tree*, on the other hand, has developed magnificently with with a glimpse of a nebari:
+The trunk of my *ficus tree*, on the other hand, has developed magnificently with a glimpse of a nebari:
 
 ![ficus benjamini nebari](/assets/images/bonsai/2020-04/ficus_outside_nebari.jpg)
 
