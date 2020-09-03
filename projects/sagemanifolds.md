@@ -28,4 +28,4 @@ The primary goal of my master's thesis was to implement *characteristic classes*
 
 ## Interested?
 
-If you have questions regarding this project, don't hesitate to contact me via [email](mailto:micjung@uni-potsdam.de). You are also invited to [contribute](https://sagemanifolds.obspm.fr/contrib.html).
+If you have questions regarding this project, don't hesitate to contact me via [email](mailto:m.jung@vu.nl). You are also invited to [contribute](https://sagemanifolds.obspm.fr/contrib.html).
