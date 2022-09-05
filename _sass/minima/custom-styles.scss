@@ -1,2 +1,20 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+.event-meta-wrapper {
+  display: grid;
+  grid-template-columns: fit-content(100px) fit-content(calc(100% - 100px));
+  column-gap: 1ex;
+}
+
+.event-entry-header {
+  margin-bottom: $spacing-unit / 2;
+
+  h3 {
+    margin-bottom: 0.5ex;
+  }
+}
+
+.event-meta-property{
+  font-weight: bold;
+}

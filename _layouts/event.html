@@ -1,0 +1,43 @@
+---
+layout: default
+---
+<article class="post h-entry">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+
+    <div class="event-meta-wrapper">
+      <div class="event-meta-property">Speaker:</div>
+      <div class="event-meta-value">{{ page.speaker }}</div>
+      
+      {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+      <div class="event-meta-property">Start:</div>
+      <div class="event-meta-value">
+        <time class="dt-start" datetime="{{ page.dt_start | date_to_xmlschema }}" itemprop="dateStart">
+          {{- page.dt_start | date: date_format }}, {{ page.dt_start | date: "%H:%M" -}}
+        </time>
+      </div>
+
+      <div class="event-meta-property">End:</div>
+      <div class="event-meta-value">
+        <time class="dt-end" datetime="{{ page.dt_end | date_to_xmlschema }}" itemprop="dateEnd">
+          {{- page.dt_end | date: date_format }}, {{ page.dt_end | date: "%H:%M" -}}
+        </time>
+      </div>
+
+      <div class="event-meta-property">Location:</div>
+      <div class="event-meta-value">{{- page.location | escape -}}</div>
+
+      {% if page.description %}
+        <div class="event-meta-property">Description:</div>
+        <div class="event-meta-value">{{- page.description | escape -}}</div>
+      {% endif %}
+    </div>
+  </header>
+
+  <div class="post-content e-content" itemprop="eventBody">
+    {{ content }}
+  </div>
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>

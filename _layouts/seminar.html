@@ -1,0 +1,107 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+
+  {% if site.paginate %}
+    {% assign events = paginator.events %}
+  {% else %}
+    {% assign events = site.events %}
+  {% endif %}
+
+
+  {%- if events.size > 0 -%}
+    {%- assign siteSec = site.time | date: "%s" -%}
+    <h2 class="post-list-heading">Upcoming talks</h2>
+    <ul class="post-list">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {%- for event in events -%}
+        {%- assign eventSec = event.dt_end | date: "%s" -%}
+        {%- if eventSec > siteSec %}
+          <li>
+            <div class="event-entry-header">
+              <h3>
+                <a class="post-link" href="{{ event.url | relative_url }}">
+                  {{ event.title | escape }}
+                </a>
+              </h3>
+              <div class="event-meta-wrapper post-meta">
+                  <div class="event-meta-property">Speaker:</div>
+                  <div class="event-meta-value">{{ event.speaker }}</div>
+
+                  <div class="event-meta-property">Start:</div>
+                  <div class="event-meta-value">
+                    <time class="dt-start" datetime="{{ event.dt_start | date_to_xmlschema }}" itemprop="dateStart">
+                      {{- event.dt_start | date: date_format }}, {{ event.dt_start | date: "%H:%M" -}}
+                    </time>
+                  </div>
+
+                  <div class="event-meta-property">End:</div>
+                  <div class="event-meta-value">
+                    <time class="dt-end" datetime="{{ event.dt_end | date_to_xmlschema }}" itemprop="dateEnd">
+                      {{- event.dt_end | date: date_format }}, {{ event.dt_end | date: "%H:%M" -}}
+                    </time>
+                  </div>
+
+                  <div class="event-meta-property">Location:</div>
+                  <div class="event-meta-value">{{- event.location | escape -}}</div>
+
+                  {% if page.description %}
+                    <div class="event-meta-property">Description:</div>
+                    <div class="event-meta-value">{{- page.description | escape -}}</div>
+                  {% endif %}
+              </div>
+            </div>
+            {%- if site.show_excerpts -%}
+              <div class="post-content e-content" itemprop="articleBody">
+                {{ event.excerpt }}
+              </div>
+            {%- endif -%}
+          </li>
+        {%- endif -%}
+      {%- endfor -%}
+      <li>
+        <a href="{{ page.url | relative_url }}calendar.ics">Add events to your calendar</a>
+      </li>
+    </ul>
+
+    <h2 class="post-list-heading">Previous talks</h2>
+    <ul class="post-list">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {%- for event in events -%}
+        {%- assign eventSec = event.dt_end | date: "%s" -%}
+        {%- if eventSec < siteSec %}
+          <li>
+            <div class="event-entry-header">
+              <h3>
+                <a class="post-link" href="{{ event.url | relative_url }}">
+                  {{ event.title | escape }}
+                </a>
+              </h3>
+              <div class="event-meta-wrapper post-meta">
+                <div class="event-meta-property">Speaker:</div>
+                <div class="event-meta-value">{{ event.speaker }}</div>
+
+                <div class="event-meta-property">Date:</div>
+                <div class="event-meta-value">
+                  <time class="dt-start" datetime="{{ event.dt_start | date_to_xmlschema }}" itemprop="dateStart">
+                    {{- event.dt_start | date: date_format }}
+                  </time>
+                </div>
+              </div>
+            </div>
+          </li>
+        {%- endif -%}
+      {%- endfor -%}
+    </ul>
+
+  {%- endif -%}
+
+</div>

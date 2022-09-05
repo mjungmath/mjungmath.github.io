@@ -55,6 +55,16 @@ minima:
 # Build settings
 theme: minima
 
+# seminar collection
+collections:
+  events:
+    output: true
+    permalink: /seminar/:year/:month/:day/:name
+    sort_by: dt_start
+
+# set timezone
+timezone: Europe/Amsterdam
+
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
