@@ -55,6 +55,10 @@ minima:
 # Build settings
 theme: seminar
 
+# events date format
+seminar:
+  event_date_format: "%b %-d, %Y, %H:%M"
+
 # seminar collection
 collections:
   events:
