@@ -10,18 +10,18 @@ layout: default
       <div class="event-meta-property">Speaker:</div>
       <div class="event-meta-value">{{ page.speaker }}</div>
       
-      {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+      {% assign date_format = site.seminar.event_date_format | default: "%b %-d, %Y, %H:%M" %}
       <div class="event-meta-property">Start:</div>
       <div class="event-meta-value">
         <time class="dt-start" datetime="{{ page.dt_start | date_to_xmlschema }}" itemprop="dateStart">
-          {{- page.dt_start | date: date_format }}, {{ page.dt_start | date: "%H:%M" -}}
+          {{- page.dt_start | date: date_format }}
         </time>
       </div>
 
       <div class="event-meta-property">End:</div>
       <div class="event-meta-value">
         <time class="dt-end" datetime="{{ page.dt_end | date_to_xmlschema }}" itemprop="dateEnd">
-          {{- page.dt_end | date: date_format }}, {{ page.dt_end | date: "%H:%M" -}}
+          {{- page.dt_end | date: date_format }}
         </time>
       </div>
 

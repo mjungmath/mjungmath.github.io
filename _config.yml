@@ -60,6 +60,10 @@ kramdown:
 # include folders
 include: ['_pages']
 
+# events date format
+seminar:
+  event_date_format: "%b %-d, %Y, %H:%M"
+
 # seminar collection
 collections:
   events:
