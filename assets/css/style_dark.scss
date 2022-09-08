@@ -1,0 +1,7 @@
+---
+# Equivalent to style.scss but for dark skin.
+---
+
+@import
+  "minima/skins/{{ site.minima.skin_dark | default: 'dark' }}",
+  "minima/initialize";

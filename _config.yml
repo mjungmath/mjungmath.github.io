@@ -1,11 +1,9 @@
-title: Your awesome title
+title: Michael Jung
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Michael Jung
+  email: m (dot) jung (at) vu.nl
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is my personal homepage where I give insights into my ongoing work and ambitions.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -13,11 +11,12 @@ show_excerpts: false # set to true to show excerpts on the homepage
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%b %-d, %Y"
+  skin:  'classic'
+  skin_dark: 'dark'
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    github:  mjungmath
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
@@ -54,12 +53,18 @@ minima:
 
 # Build settings
 theme: seminar
+markdown: kramdown
+kramdown:
+   math_engine: mathjax
+
+# include folders
+include: ['_pages']
 
 # seminar collection
 collections:
   events:
     output: true
-    permalink: /seminar/:year/:month/:day/:name
+    permalink: /phdseminar/:year/:month/:day/:name
     sort_by: dt_start
 
 # set timezone
