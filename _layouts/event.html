@@ -14,14 +14,14 @@ layout: default
       <div class="event-meta-property">Start:</div>
       <div class="event-meta-value">
         <time class="dt-start" datetime="{{ page.dt_start | date_to_xmlschema }}" itemprop="dateStart">
-          {{- page.dt_start | date: date_format }}, {{ page.dt_start | date: "%H:%M" -}}
+          {{- page.dt_start | date: '%a' }}, {{ page.dt_start | date: date_format }}, {{ page.dt_start | date: "%H:%M" -}}
         </time>
       </div>
 
       <div class="event-meta-property">End:</div>
       <div class="event-meta-value">
         <time class="dt-end" datetime="{{ page.dt_end | date_to_xmlschema }}" itemprop="dateEnd">
-          {{- page.dt_end | date: date_format }}, {{ page.dt_end | date: "%H:%M" -}}
+          {{- page.dt_end | date: '%a' }}, {{ page.dt_end | date: date_format }}, {{ page.dt_end | date: "%H:%M" -}}
         </time>
       </div>
 
