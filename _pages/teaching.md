@@ -4,15 +4,30 @@ title: teaching
 permalink: /teaching/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+current
+-------
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+**lectures**
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+* Differential equations for mechanical engineering (winter 2023/24)
 
+**tutorials**
 
-[jekyll-organization]: https://github.com/jekyll
+* Differential geometry (winter 2023/24)
+* Fourier analysis (winter 2023/24)
+
+past
+----
+
+**lectures**
+
+* Differential equations for mechanical engineering (winter 2022/23)
+* Differential equations for mechanical engineering (winter 2021/22)
+
+**tutorials**
+
+* Dynamical systems (summer 2023)
+* Financial mathematics (summer 2023)
+* Mathematical analysis (summer 2023)
+* Differential geometry (winter 2022/23)
+* Fourier analysis (winter 2022/23)

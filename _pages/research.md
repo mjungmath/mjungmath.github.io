@@ -4,15 +4,39 @@ title: research
 permalink: /research/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+publications
+------------
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+*   A geometric derivation of cohomotopy groups in co-degree one (preprint)  
+    *with T.O. Rot*  
+    *in progress*
+*   Characteristic classes in computer algebra  
+    *master thesis*  
+    *arXiv doi: [10.48550/arXiv.2006.13788](https://doi.org/10.48550/arXiv.2006.13788)*
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+slides
+------
 
+*   [A geometric derivation of cohomotopy groups in co-degree one]({% link assets/files/research/cohomotopy_groups_codegree_one_2023.pdf %})  
+    *last updated: July 10, 2023*  
+    *held in: Bochum (May 2023), Marburg (June 2023), [nutshell]({% link _pages/nutshell.md %}) (July 2023)*
 
-[jekyll-organization]: https://github.com/jekyll
+conferences
+-----------
+
+*   Geometry and Quantum Theory: Graduate School and Conference  
+    *Utrecht, August 28 -- September 01, 2023*
+*   Young Topologists Meeting  
+    *Lausanne, July 24--28, 2023*
+*   Nederlands Mathematisch Congress  
+    *Utrecht, April 11--12, 2023*
+*   Spring school on algebraic topology and field theories  
+    *Utrecht, May 16--20, 2022*
+
+misc
+----
+
+*   [Classification of cohomotopy sets for non-orientable manifolds in co-degree 1]({% link assets/files/research/poster_presentation_nmc_2023.pdf %})  
+    *poster presentation at NMC 2023*
+*   [Some calculations on chiral anomalies using an index theorem]({% link assets/files/research/project_work_2019.pdf %})  
+    *project work at University of Potsdam, 2019*

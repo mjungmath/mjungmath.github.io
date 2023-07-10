@@ -4,6 +4,14 @@ title: about
 permalink: /
 ---
 
-I am a junior docent and Ph.D. student at the Vrije Universiteit in Amsterdam. My Ph.D. is under the supervision of [Thomas Rot](http://www.few.vu.nl/~trt800/) in the area of differential topology. My general research interests lie in differential topology, differential geometry, computational mathematics and mathematical physics.
+![that is me]({% link assets/images/aboutme/me.jpg %} "that is me")
 
-Moreover, I am developer in the [SageMath](https://www.sagemath.org/) project. My main contribution is devoted to the sub-project [SageManifolds](https://sagemanifolds.obspm.fr/).  Quite recently, I have added the Chern--Weil approach for characteristic classes.
+I am currently affiliated at the Vrije Universiteit in Amsterdam as junior lecturer, where I am pursuing my doctorate in mathematics under the supervision of [Thomas Rot](http://www.few.vu.nl/~trt800/).
+My research focuses on the Pontryagin-Thom construction for finite-dimensional as well as infinite-dimensional manifolds.
+This area fascinates me as it brings various branches of mathematics harmoniously together such as algebraic topology, differential topology, differential geometry and functional analysis.
+
+Alongside, I am also interested in computational mathematics, with a special emphasis on SageMath.
+I contribute to the SageMath project, primarily focusing on the development of the sub-project SageManifolds.
+For more detailed information about my contributions, please click [here]({% link _pages/sagemanifolds.md %}).
+
+I am also organizer of the [nutshell seminar]({% link _pages/nutshell.md %}) at the Vrije Universiteit Amsterdam.

@@ -11,12 +11,11 @@ show_excerpts: false # set to true to show excerpts on the homepage
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%a, %b %-d, %Y"
-  skin:  'classic'
-  skin_dark: 'dark'
+  skin: auto
 
   # generate social links in footer
-  social_links:
-    github:  mjungmath
+  # social_links:
+    # github:  mjungmath
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
@@ -68,7 +67,7 @@ seminar:
 collections:
   events:
     output: true
-    permalink: /phdseminar/:year/:month/:day/:name
+    permalink: /nutshell/:year/:month/:day/:name
     sort_by: dt_start
 
 # set timezone
@@ -81,6 +80,7 @@ plugins:
 # Theme-specific settings
 
 minima:
+  skin: auto
   # Minima date format.
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #

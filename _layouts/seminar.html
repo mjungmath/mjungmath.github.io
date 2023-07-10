@@ -1,10 +1,10 @@
 ---
 layout: base
 ---
-
-<div class="home">
+<article class="post">
+<div class="post-header">
   {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
+    <h1 class="post-title">{{ page.title }}</h1>
   {%- endif -%}
 
   {{ content }}
@@ -25,7 +25,7 @@ layout: base
     {%- endif -%}
   {%- endfor -%}
 
-  <h2 class="post-list-heading">Upcoming talks</h2>
+  <h2 class="post-list-heading">upcoming talks</h2>
   <ul class="post-list">
     {%- if upcoming_events.size > 0 -%}
       {%- for event in upcoming_events -%}
@@ -79,7 +79,7 @@ layout: base
   </ul>
 
   {%- if previous_events.size > 0 -%}
-    <h2 class="post-list-heading">Previous talks</h2>
+    <h2 class="post-list-heading">previous talks</h2>
     <ul class="post-list">
       {%- for event in previous_events -%}
         <li>
