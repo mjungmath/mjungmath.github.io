@@ -7,9 +7,9 @@ permalink: /research/
 publications
 ------------
 
-*   A geometric derivation of cohomotopy groups in co-degree one (preprint)  
+*   A geometric computation of cohomotopy groups in co-degree one (preprint)  
     *with T.O. Rot*  
-    *in progress*
+    *arXiv doi: [10.48550/arXiv.2307.03805](https://doi.org/10.48550/arXiv.2307.03805)*
 *   Characteristic classes in computer algebra  
     *master thesis*  
     *arXiv doi: [10.48550/arXiv.2006.13788](https://doi.org/10.48550/arXiv.2006.13788)*
@@ -17,8 +17,8 @@ publications
 slides
 ------
 
-*   [A geometric derivation of cohomotopy groups in co-degree one]({% link assets/files/research/cohomotopy_groups_codegree_one_2023.pdf %})  
-    *last updated: July 10, 2023*  
+*   [A geometric computation of cohomotopy groups in co-degree one]({% link assets/files/research/A geometric computation of Cohomotopy Groups.pdf %})  
+    *last updated: July 11, 2023*  
     *held in: Bochum (May 2023), Marburg (June 2023), [nutshell]({% link _pages/nutshell.md %}) (July 2023)*
 
 conferences
