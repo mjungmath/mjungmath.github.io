@@ -15,3 +15,9 @@ I contribute to the SageMath project, primarily focusing on the development of t
 For more detailed information about my contributions, please click [here]({% link _pages/sagemanifolds.md %}).
 
 I am also organizer of the [nutshell seminar]({% link _pages/nutshell.md %}) at the Vrije Universiteit Amsterdam.
+
+news
+----
+
+*   11-07-2023: Together with my supervisor Thomas Rot, we uploaded our first joint paper to arXiv:  
+    [*A geometric computation of cohomotopy groups in co-degree one*](https://doi.org/10.48550/arXiv.2307.03805)

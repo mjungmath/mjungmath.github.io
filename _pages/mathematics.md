@@ -1,7 +1,7 @@
 ---
 layout: page
-title: research
-permalink: /research/
+title: mathematics
+permalink: /mathematics/
 ---
 
 publications
@@ -10,8 +10,12 @@ publications
 *   A geometric computation of cohomotopy groups in co-degree one (preprint)  
     *with T.O. Rot*  
     *arXiv doi: [10.48550/arXiv.2307.03805](https://doi.org/10.48550/arXiv.2307.03805)*
+
+theses
+------
+
 *   Characteristic classes in computer algebra  
-    *master thesis*  
+    *master thesis under supervision of Christian Bär*  
     *arXiv doi: [10.48550/arXiv.2006.13788](https://doi.org/10.48550/arXiv.2006.13788)*
 
 slides
@@ -19,7 +23,7 @@ slides
 
 *   [A geometric computation of cohomotopy groups in co-degree one]({% link assets/files/research/A geometric computation of Cohomotopy Groups.pdf %})  
     *last updated: July 11, 2023*  
-    *held in: Bochum (May 2023), Marburg (June 2023), [nutshell]({% link _pages/nutshell.md %}) (July 2023)*
+    *held in: Bochum (May 2023), Marburg (June 2023), [nutshell]({% link _pages/nutshell.md %}) (July 2023)*  
 
 conferences
 -----------
