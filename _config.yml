@@ -51,7 +51,7 @@ minima:
 # - about.md
 
 # Build settings
-theme: seminar
+# theme: seminar
 markdown: kramdown
 kramdown:
    math_engine: mathjax
