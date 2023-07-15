@@ -21,8 +21,8 @@ theses
 slides
 ------
 
-*   [A geometric computation of cohomotopy groups in co-degree one]({% link assets/files/research/A geometric computation of Cohomotopy Groups.pdf %})  
-    *last updated: July 14, 2023*  
+*   [A geometric computation of cohomotopy groups in co-degree one]({% link assets/files/research/geometric_computation_cohomotopy.pdf %})  
+    *last updated: July 15, 2023*  
     *held in: Bochum (May 2023), Marburg (June 2023), [nutshell]({% link _pages/nutshell.md %}) (July 2023)*  
 
 conferences
