@@ -31,3 +31,8 @@ past
 * Mathematical analysis (spring 2023)
 * Differential geometry (fall 2022)
 * Fourier analysis (fall 2022)
+
+certificates
+------------
+
+* 2022: University Teaching Qualification
