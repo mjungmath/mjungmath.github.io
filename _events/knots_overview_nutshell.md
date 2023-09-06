@@ -3,8 +3,8 @@
 # This file generates an event.
 #
 layout:      event
-title:       Bananas in a nutshell
-speaker:     Michael Jung
+title:       Knots in a nutshell
+speaker:     Thiago de Paiva Souza
 dt_start:    25-09-2023 14:00
 dt_end:      25-09-2023 15:00
 location:    VU Amsterdam, NU-09A46 (Maryam)
