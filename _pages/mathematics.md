@@ -29,7 +29,7 @@ conferences
 -----------
 
 *   Geometry and Quantum Theory: Graduate School and Conference  
-    *Utrecht, August 28 -- September 01, 2023*
+    *Nijmegen, August 28 -- September 01, 2023*
 *   Young Topologists Meeting  
     *Lausanne, July 24--28, 2023*
 *   Nederlands Mathematisch Congress  
