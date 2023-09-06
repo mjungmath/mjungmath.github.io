@@ -5,8 +5,8 @@
 layout:      event
 title:       Bananas in a nutshell
 speaker:     Alba Sendón Blanco
-dt_start:    14-09-2023 16:00
-dt_end:      14-09-2023 17:00
+dt_start:    14-09-2023 14:00
+dt_end:      14-09-2023 15:00
 location:    VU Amsterdam, NU-09A46 (Maryam)
 ---
 
