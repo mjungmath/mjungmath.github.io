@@ -4,6 +4,9 @@ title: mathematics
 permalink: /mathematics/
 ---
 
+My current research focuses around the Pontryagin-Thom construction on finite-dimensional and infinite-dimensional manifolds.
+This area fascinates me as it brings various branches of mathematics harmoniously together such as algebraic topology, differential topology, differential geometry and functional analysis.
+
 publications
 ------------
 
