@@ -4,9 +4,6 @@ title: teaching
 permalink: /teaching/
 ---
 
-Apart from ordinary teaching tasks, I am involved in the (re)structuring process of Bachelor programs such as mathematics and mechanical engineering.
-A list of my current and previous teaching duties is listed below.
-
 current
 -------
 
