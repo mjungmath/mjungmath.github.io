@@ -28,7 +28,7 @@ slides
 conferences
 -----------
 
-*   Contact And Symplectic Topology
+*   Contact And Symplectic Topology  
     *Bochum, February 8--10, 2024*
 *   Geometry and Quantum Theory: Graduate School and Conference  
     *Nijmegen, August 28 -- September 01, 2023*
