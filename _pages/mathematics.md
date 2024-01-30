@@ -4,6 +4,13 @@ title: mathematics
 permalink: /mathematics/
 ---
 
+My research interests range from algebraic to geometric topology.
+Basically, I like everything that can be comprised in a picture.
+To me, using differentiable and geometric structures to derive topological properties radiates a certain beauty.
+
+My current research focuses around the Pontryagin-Thom construction on finite-dimensional and infinite-dimensional manifolds.
+This area fascinates me as it brings various branches of mathematics harmoniously together such as algebraic topology, differential topology, differential geometry and functional analysis.
+
 publications
 ------------
 
