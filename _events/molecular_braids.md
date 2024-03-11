@@ -5,8 +5,8 @@
 layout:      event
 title:       Molecular braids in a nutshell
 speaker:     Riya Dogra
-dt_start:    18-03-2023 15:00
-dt_end:      18-03-2023 16:00
+dt_start:    18-03-2024 15:00
+dt_end:      18-03-2024 16:00
 location:    VU Amsterdam, NU-09A46 (Maryam)
 ---
 

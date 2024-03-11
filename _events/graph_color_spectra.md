@@ -5,8 +5,8 @@
 layout:      event
 title:       Graph and color spectra in a nutshell
 speaker:     Lies Beers
-dt_start:    04-03-2023 15:00
-dt_end:      04-03-2023 16:00
+dt_start:    04-03-2024 15:00
+dt_end:      04-03-2024 16:00
 location:    VU Amsterdam, NU-09A46 (Maryam)
 ---
 
