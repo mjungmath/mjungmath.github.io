@@ -31,13 +31,17 @@ slides
 conferences
 -----------
 
+*   Young Topologists Meeting 2024  
+    *Münster, August 05--09, 2024*
+*   Masterclass: Homotopical Methods in Manifold Theory  
+    *Copenhagen, April 15--19, 2024*
 *   Contact And Symplectic Topology  
     *Bochum, February 8--10, 2024*
 *   Geometry and Quantum Theory: Graduate School and Conference  
     *Nijmegen, August 28 -- September 01, 2023*
-*   Young Topologists Meeting  
+*   Young Topologists Meeting 2023 
     *Lausanne, July 24--28, 2023*
-*   Nederlands Mathematisch Congress  
+*   Nederlands Mathematisch Congress 2023  
     *Utrecht, April 11--12, 2023*
 *   Spring school on algebraic topology and field theories  
     *Utrecht, May 16--20, 2022*
