@@ -8,9 +8,9 @@ permalink: /
 
 I am currently affiliated at the Vrije Universiteit in Amsterdam as junior lecturer, where I am pursuing my doctorate in mathematics under the supervision of [Thomas Rot](http://www.few.vu.nl/~trt800/).
 
-My research interests range from algebraic to geometric topology.
-Basically, I like everything that can be comprised in a picture.
-To me, using differentiable and geometric structures to derive topological properties radiates a certain beauty.
+My research interests range from algebraic to geometric topology with a pinch of functional analysis.
+The beauty of mathematics is its artistry.
+One picture can tell everything you need to know, it encompasses a whole proof, and it is simply beautiful.
 
 Alongside, I am interested in computational mathematics, with a special emphasis on SageMath.
 I contribute to the SageMath project, primarily focusing on the development of the sub-project SageManifolds.
