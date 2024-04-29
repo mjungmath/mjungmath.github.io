@@ -39,7 +39,7 @@ conferences
     *Bochum, February 8--10, 2024*
 *   Geometry and Quantum Theory: Graduate School and Conference  
     *Nijmegen, August 28 -- September 01, 2023*
-*   Young Topologists Meeting 2023 
+*   Young Topologists Meeting 2023  
     *Lausanne, July 24--28, 2023*
 *   Nederlands Mathematisch Congress 2023  
     *Utrecht, April 11--12, 2023*
