@@ -5,7 +5,7 @@ permalink: /teaching/
 ---
 
 My teaching roles at the VU range from teaching assistant to lecturer.
-Apart from ordinary teaching tasks, I am involved in the (re)structuring process of Bachelor programs such as mathematics and mechanical engineering.
+Apart from ordinary teaching tasks, I am actively contributing to enhancing the mathematics and mechanical engineering bachelor program.
 In 2022, I received my Dutch university teaching qualification.
 A list of my previous and current teaching duties can be found below.
 
