@@ -10,7 +10,7 @@ This area fascinates me as it brings various branches of mathematics harmoniousl
 publications
 ------------
 
-*   A geometric computation of cohomotopy groups in co-degree one (preprint)  
+*   A geometric computation of cohomotopy groups in co-degree one (to appear in: Algebr. Geom. Topol.)  
     *with T.O. Rot*  
     *arXiv doi: [10.48550/arXiv.2307.03805](https://doi.org/10.48550/arXiv.2307.03805)*
 
