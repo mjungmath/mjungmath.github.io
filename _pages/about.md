@@ -13,13 +13,14 @@ The beauty of mathematics is its artistry.
 One picture can tell everything you need to know, it encompasses a whole proof, and it is simply beautiful.
 
 Alongside, I am interested in computational mathematics, with a special emphasis on SageMath.
-I contribute to the SageMath project, primarily focusing on the development of the sub-project SageManifolds.
+I contributed to the SageMath project, primarily focusing on the development of the sub-project SageManifolds.
 For more detailed information about my contributions, please click [here]({% link _pages/sagemanifolds.md %}).
 
-I am also organizer of the [nutshell seminar]({% link _pages/nutshell.md %}) at the Vrije Universiteit Amsterdam.
+I am also founder of the [nutshell seminar]({% link _pages/nutshell.md %}) at the Vrije Universiteit Amsterdam, which is now organized by [Aafko Boonstra](https://research.vu.nl/en/persons/aafko-boonstra/).
 
 news
 ----
 
+*   01-10-2025: Together with my supervisor Thomas Rot, our paper *A geometric computation of cohomotopy groups in co-degree one* has been published in AGT: [doi](https://doi.org/10.2140/agt.2025.25.3603).
 *   11-07-2023: Together with my supervisor Thomas Rot, we uploaded our first joint paper to arXiv:  
     [*A geometric computation of cohomotopy groups in co-degree one*](https://doi.org/10.48550/arXiv.2307.03805)
