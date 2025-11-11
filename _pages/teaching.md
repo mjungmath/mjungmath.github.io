@@ -12,17 +12,30 @@ A list of my previous and current teaching duties can be found below.
 current
 -------
 
+**lectures**
+
+* Differential equations for mechanical engineering
+
+**tutorials**
+
+* Differential geometry
+
 past
 ----
 
 **lectures**
 
+* Differential equations for mechanical engineering (fall 2024)
 * Differential equations for mechanical engineering (fall 2023)
 * Differential equations for mechanical engineering (fall 2022)
 * Differential equations for mechanical engineering (fall 2021)
 
 **tutorials**
 
+* Differential geometry (fall 2024)
+* Basic concepts (fall 2024)
+* Discrete mathematics (fall 2024)
+* Fourier analysis (fall 2024)
 * Topology (spring 2024)
 * Financial mathematics (spring 2024)
 * Differential geometry (fall 2023)
