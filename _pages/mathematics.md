@@ -11,8 +11,8 @@ publications
 ------------
 
 *   A geometric computation of cohomotopy groups in co-degree one (published in: Algebr. Geom. Topol. 25(6), 3603)  
-    *with T.O. Rot* 
-    *journal doi: [10.2140/agt.2025.25.3603](https://doi.org/10.2140/agt.2025.25.3603)* 
+    *with T.O. Rot*  
+    *journal doi: [10.2140/agt.2025.25.3603](https://doi.org/10.2140/agt.2025.25.3603)*  
     *arXiv doi: [10.48550/arXiv.2307.03805](https://doi.org/10.48550/arXiv.2307.03805)*
 
 theses
