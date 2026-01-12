@@ -35,6 +35,8 @@ conferences
 
 *   Young Topologists Meeting 2024  
     *Münster, August 05--09, 2024*
+*   From Analysis to Homotopy Theory  
+    *Greifswald, May 13--17, 2024*
 *   Masterclass: Homotopical Methods in Manifold Theory  
     *Copenhagen, April 15--19, 2024*
 *   Contact And Symplectic Topology  
