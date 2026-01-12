@@ -45,7 +45,7 @@ past
 * Dynamical systems (spring 2022)
 * Fourier Analysis (fall 2021)
 * Financial mathematics (spring 2021)
-* Project Big Data (January/Fabruary 2021)
+* Project Big Data (January/February 2021)
 * Calculus for BA (fall 2020)
 
 **supervision**
