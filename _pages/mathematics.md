@@ -40,6 +40,10 @@ slides
 conferences
 -----------
 
+*   Lectures on Geometric Topology  
+    *Utrecht, March 30 -- April 02, 2026*
+*   Kan Lectures 2025  
+    *Utrecht, December 18--19, 2025*
 *   Young Topologists Meeting 2024  
     *Münster, August 05--09, 2024*
 *   From Analysis to Homotopy Theory  
