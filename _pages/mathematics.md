@@ -37,9 +37,19 @@ slides
     *last updated: July 15, 2023*  
     *held in: Bochum (May 2023), Marburg (June 2023), [nutshell]({% link _pages/nutshell.md %}) (July 2023)*  
 
+upcoming talks
+--------------
+
+* topICS  
+  *Vrije Universiteit Amsterdam, April 24*
+* Friday Fish  
+  *Utrecht University, June 19*
+
 conferences
 -----------
 
+*   Interactions between higher algebra, manifolds and functor calculus  
+    *MPIM Bonn, May 18 -- 22, 2026*
 *   Lectures on Geometric Topology  
     *Utrecht, March 30 -- April 02, 2026*
 *   Kan Lectures 2025  
