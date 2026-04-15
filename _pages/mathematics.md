@@ -21,6 +21,8 @@ upcoming talks
   *Vrije Universiteit Amsterdam, April 24*
 * Friday Fish  
   *Utrecht University, June 19*
+  * Contributing talk (25 min) at YTM 2026  
+  *Copenhagen, June 29 -- July 03*
 
 publications
 ------------
@@ -48,6 +50,8 @@ slides
 conferences
 -----------
 
+*   Young Topologists Meeting 2026  
+    *Copenhagen, June 29 -- July 03, 2026*
 *   Interactions between higher algebra, manifolds and functor calculus  
     *MPIM Bonn, May 18 -- 22, 2026*
 *   Lectures on Geometric Topology  
