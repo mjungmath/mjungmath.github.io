@@ -20,8 +20,8 @@ upcoming talks
 * topICS  
   *Vrije Universiteit Amsterdam, April 24*
 * Friday Fish  
-  *Utrecht University, June 19*
-  * Contributing talk (25 min) at YTM 2026  
+  Utrecht University, June 19*
+* Contributing talk (25 min) at YTM 2026  
   *Copenhagen, June 29 -- July 03*
 
 publications
