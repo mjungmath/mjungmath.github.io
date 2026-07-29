@@ -11,7 +11,6 @@ This area fascinates me as it brings various branches of mathematics harmoniousl
 ongoing projects
 ----------------
 
-*   Steenrod problem for twisted coefficients with [Mark Grant](https://homepages.abdn.ac.uk/mark.grant/pages/) and [Baylee Schutte](https://sites.google.com/view/bayleeschuttemath/)
 *   Homology theory for infinite dimensional manifolds with [Thomas Rot](https://www.few.vu.nl/~trt800/), [Lauran Toussaint](https://sites.google.com/view/laurantoussaint/) and [Alberto Abbondandolo](https://math.ruhr-uni-bochum.de/fakultaet/arbeitsbereiche/analysis/symplectic-geometry-group/alberto-abbondandolo/)
 
 
