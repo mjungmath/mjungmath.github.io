@@ -21,6 +21,7 @@ I am also founder of the [nutshell seminar]({% link _pages/nutshell.md %}) at th
 news
 ----
 
+*   29-07-2026: Together with Mark Grant and Baylee Schutte, we uploaded our paper to arXiv: [*On Realisability of Twisted Homology*](https://arxiv.org/abs/2607.24462).
 *   01-10-2025: Together with my supervisor Thomas Rot, our paper *A geometric computation of cohomotopy groups in co-degree one* has been published in AGT: [doi](https://doi.org/10.2140/agt.2025.25.3603).
 *   11-07-2023: Together with my supervisor Thomas Rot, we uploaded our first joint paper to arXiv:  
     [*A geometric computation of cohomotopy groups in co-degree one*](https://doi.org/10.48550/arXiv.2307.03805)
