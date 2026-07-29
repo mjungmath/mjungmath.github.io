@@ -14,19 +14,13 @@ ongoing projects
 *   Steenrod problem for twisted coefficients with [Mark Grant](https://homepages.abdn.ac.uk/mark.grant/pages/) and [Baylee Schutte](https://sites.google.com/view/bayleeschuttemath/)
 *   Homology theory for infinite dimensional manifolds with [Thomas Rot](https://www.few.vu.nl/~trt800/), [Lauran Toussaint](https://sites.google.com/view/laurantoussaint/) and [Alberto Abbondandolo](https://math.ruhr-uni-bochum.de/fakultaet/arbeitsbereiche/analysis/symplectic-geometry-group/alberto-abbondandolo/)
 
-upcoming talks
---------------
-
-* topICS  
-  *Vrije Universiteit Amsterdam, April 24*
-* Friday Fish  
-  *Utrecht University, June 19*
-* Contributing talk (25 min) at YTM 2026  
-  *Copenhagen, June 29 -- July 03*
 
 publications
 ------------
 
+*   On Realisability of Twisted Homology  
+    *with M. Grant and B. Schutte*  
+    *arXiv doi: [10.48550/arXiv.2607.24462](https://doi.org/10.48550/arXiv.2607.24462)*
 *   A geometric computation of cohomotopy groups in co-degree one  
     *with T.O. Rot*  
     published in: Algebr. Geom. Topol. 25(6), 3603  
