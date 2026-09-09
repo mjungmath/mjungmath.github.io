@@ -36,7 +36,7 @@ theses
 slides
 ------
 
-*   [A geometric computation of cohomotopy groups in co-degree one]({% link assets/files/research/geometric_computation_cohomotopy.pdf %})  
+*   [A geometric computation of cohomotopy groups in co-degree one]({% link assets/files/research/geometric-computation-cohomotopy.pdf %})  
     *last updated: July 15, 2023*  
     *held in: Bochum (May 2023), Marburg (June 2023), [nutshell]({% link _pages/nutshell.md %}) (July 2023)*  
 
@@ -71,7 +71,7 @@ conferences
 misc
 ----
 
-*   [Classification of cohomotopy sets for non-orientable manifolds in co-degree 1]({% link assets/files/research/poster_presentation_nmc_2023.pdf %})  
+*   [Classification of cohomotopy sets for non-orientable manifolds in co-degree 1]({% link assets/files/research/poster-presentation-nmc-2023.pdf %})  
     *poster presentation at NMC 2023*
-*   [Some calculations on chiral anomalies using an index theorem]({% link assets/files/research/project_work_2019.pdf %})  
+*   [Some calculations on chiral anomalies using an index theorem]({% link assets/files/research/project-work-2019.pdf %})  
     *project work at University of Potsdam, 2019*
