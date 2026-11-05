@@ -10,18 +10,6 @@ show_excerpts: false # set to true to show excerpts on the homepage
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
-
-  social_links:
-    - title: GitHub repositories
-      icon: github
-      url: "https://github.com/mjungmath"
-    - title: ORCiD
-      icon: orcid
-      url: "https://orcid.org/0009-0005-7309-0507"
-    - title: LinkedIn
-      icon: linkedin
-      url: "https://www.linkedin.com/in/michael-jung-194220413"
-
   date_format: "%a, %b %-d, %Y"
   skin: auto
 
