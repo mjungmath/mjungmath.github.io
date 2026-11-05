@@ -18,6 +18,9 @@ minima:
     - title: ORCiD
       icon: orcid
       url: "https://orcid.org/0009-0005-7309-0507"
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/michael-jung-194220413"
 
   date_format: "%a, %b %-d, %Y"
   skin: auto
