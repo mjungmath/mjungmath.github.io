@@ -1,5 +1,15 @@
 <ul class="social-media-list">
-{%- for entry in site.minima.social_links -%}
-  {%- include social-item.html item = entry -%}
-{%- endfor -%}
+  {%- for entry in site.minima.social_links -%}
+    <li>
+      <a
+        rel="me noopener noreferrer"
+        href="{{ entry.url }}"
+        target="_blank"
+        title="{{ entry.title }}"
+        aria-label="{{ entry.title }}">
+        <span class="grey fa-brands fa-{{ entry.icon }} fa-lg"
+              aria-hidden="true"></span>
+      </a>
+    </li>
+  {%- endfor -%}
 </ul>
