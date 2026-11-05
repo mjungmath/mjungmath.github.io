@@ -13,6 +13,17 @@ minima:
   date_format: "%a, %b %-d, %Y"
   skin: auto
 
+  social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/mjungmath"
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/michael-jung-194220413/"
+    - title: ORCID
+      icon: orcid
+      url: "https://orcid.org/0009-0005-7309-0507"
+
   # generate social links in footer
   # social_links:
     # github:  mjungmath
