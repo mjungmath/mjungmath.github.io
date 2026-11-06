@@ -17,22 +17,22 @@ ongoing projects
 publications
 ------------
 
-*   On Realisability of Twisted Homology  
-    *with M. Grant and B. Schutte [submitted]*  
-    *arXiv doi: [10.48550/arXiv.2607.24462](https://doi.org/10.48550/arXiv.2607.24462)*  
-    *comment: v2 enhances the exposition, clarifies some arguments, and improves notation; all thanks go to Cary Malkiewich for his valuable comments*
-*   A geometric computation of cohomotopy groups in co-degree one  
+*   **On Realisability of Twisted Homology** [preprint]  
+    *with M. Grant and B. Schutte*  
+    arXiv doi: [10.48550/arXiv.2607.24462](https://doi.org/10.48550/arXiv.2607.24462)  
+    comment: *v2 enhances the exposition, clarifies some arguments, and improves notation; all thanks go to Cary Malkiewich for his valuable comments*
+*   **A geometric computation of cohomotopy groups in co-degree one**  
     *with T.O. Rot*  
-    published in: Algebr. Geom. Topol. 25(6), 3603  
-    *journal doi: [10.2140/agt.2025.25.3603](https://doi.org/10.2140/agt.2025.25.3603)*  
-    *arXiv doi: [10.48550/arXiv.2307.03805](https://doi.org/10.48550/arXiv.2307.03805)*
+    in: *Algebr. Geom. Topol.* 25(6), 3603 (2025)  
+    journal doi: [10.2140/agt.2025.25.3603](https://doi.org/10.2140/agt.2025.25.3603)  
+    arXiv doi: [10.48550/arXiv.2307.03805](https://doi.org/10.48550/arXiv.2307.03805)
 
 theses
 ------
 
-*   Characteristic classes in computer algebra  
+*   **Characteristic classes in computer algebra**  
     *master thesis under supervision of Christian Bär*  
-    *arXiv doi: [10.48550/arXiv.2006.13788](https://doi.org/10.48550/arXiv.2006.13788)*
+    arXiv doi: [10.48550/arXiv.2006.13788](https://doi.org/10.48550/arXiv.2006.13788)
 
 slides
 ------
