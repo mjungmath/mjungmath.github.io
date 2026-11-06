@@ -17,7 +17,7 @@ ongoing projects
 publications
 ------------
 
-*   On Realisability of Twisted Homology  
+*   On Realisability of Twisted Homology [submitted]  
     *with M. Grant and B. Schutte*  
     *arXiv doi: [10.48550/arXiv.2607.24462](https://doi.org/10.48550/arXiv.2607.24462)*  
     *comment: v2 enhances the exposition, clarifies some arguments, and improves notation; all thanks go to Cary Malkiewich for his valuable comments*
