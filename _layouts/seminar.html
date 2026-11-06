@@ -25,6 +25,9 @@ layout: base
     {%- endif -%}
   {%- endfor -%}
 
+  {%- assign upcoming_events = upcoming_events | sort: "dt_start" -%}
+  {%- assign previous_events = previous_events | sort: "dt_start" | reverse -%}
+
   <h2 class="post-list-heading">upcoming talks</h2>
   <ul class="post-list">
     {%- if upcoming_events.size > 0 -%}
