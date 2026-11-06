@@ -16,7 +16,7 @@ Alongside, I am interested in computational mathematics, with a special emphasis
 I contributed to the SageMath project, primarily focusing on the development of the sub-project SageManifolds.
 For more detailed information about my contributions, please click [here]({% link _pages/sagemanifolds.md %}).
 
-I am also founder of the [nutshell seminar]({% link _pages/nutshell.md %}) at the Vrije Universiteit Amsterdam, which is now organized by [Aafko Boonstra](https://research.vu.nl/en/persons/aafko-boonstra/).
+I am also founder of the [nutshell seminar]({% link _pages/nutshell.md %}) at the Vrije Universiteit Amsterdam, which is now organized by [Jesse Straat](https://jessestraat.nl/nutshell/).
 
 news
 ----
